@@ -35,15 +35,15 @@ Mappings:
   ServiceToRepo:
     greeting:
       Repo: microservices-greeting
-      Owner: arun-gupta
+      Owner: Frazgul
       Branch: master
     name:
       Repo: microservices-name
-      Owner: arun-gupta
+      Owner: Frazgul
       Branch: master
     webapp:
       Repo: microservices-webapp
-      Owner: arun-gupta
+      Owner: Frazgul
       Branch: master
 
 Conditions:
